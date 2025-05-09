@@ -15,8 +15,11 @@ This Node.js script generates a **SEPA-compatible Giro QR code** (BCD format) ba
 
 ## Setup
 
-### 1. Install dependencies 
+### 1. Clone the repository or copy the script
+git clone https://github.com/Jasonzhou97/giro-qrcode.git
+
+### 2. Install dependencies 
 npm install qrcode prompt-sync
 
-### 2. Run the script
+### 3. Run the script
 node index.js
